@@ -1,0 +1,27 @@
+{
+  "About Us": {
+    "pl": "Nasza kancelaria adwokacka oferuje profesjonalną pomoc prawną klientom indywidualnym i firmom. Działamy z pełnym zaangażowaniem i dyskrecją.",
+    "ua": "Наша адвокатська контора надає професійну правову допомогу приватним особам та компаніям. Ми працюємо з повною відданістю та конфіденційністю.",
+    "en": "Our law firm provides professional legal assistance to individuals and businesses. We operate with full commitment and confidentiality."
+  },
+  "Services": {
+    "pl": "Oferujemy usługi z zakresu prawa cywilnego, karnego, rodzinnego, pracy oraz gospodarczego.",
+    "ua": "Ми пропонуємо послуги у сфері цивільного, кримінального, сімейного, трудового та господарського права.",
+    "en": "We offer services in civil, criminal, family, labor, and commercial law."
+  },
+  "Pricing": {
+    "pl": "Ceny ustalane są indywidualnie w zależności od rodzaju sprawy. Pierwsza konsultacja bezpłatna.",
+    "ua": "Ціни визначаються індивідуально залежно від типу справи. Перша консультація безкоштовна.",
+    "en": "Prices are determined individually depending on the type of case. First consultation is free."
+  },
+  "Information": {
+    "pl": "Kancelaria czynna od poniedziałku do piątku w godzinach 9:00–17:00. Możliwość spotkań online.",
+    "ua": "Контора працює з понеділка по п’ятницю з 9:00 до 17:00. Можливі онлайн-зустрічі.",
+    "en": "The office is open Monday to Friday from 9:00 AM to 5:00 PM. Online meetings available."
+  },
+  "Contact": {
+    "pl": "Skontaktuj się z nami: kontakt@kancelaria.pl | Tel: +48 123 456 789",
+    "ua": "Зв’яжіться з нами: kontakt@kancelaria.pl | Тел: +48 123 456 789",
+    "en": "Contact us: kontakt@kancelaria.pl | Tel: +48 123 456 789"
+  }
+}
